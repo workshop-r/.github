@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Esta cuenta contiene los repositorios del curso [ECON-1302](https://github.com/taller-r-202203) de la Facultad de Economía de la Universidad de los Andes. Cada repositorio contiene:
+Esta cuenta contiene los repositorios del curso [ECON-1302](https://github.com/taller-r-202301) de la Facultad de Economía de la Universidad de los Andes. Cada repositorio contiene:
 
 - :file_folder: **input**: contiene los conjuntos de datos que se usados en la clase.
 
@@ -10,15 +10,15 @@ Esta cuenta contiene los repositorios del curso [ECON-1302](https://github.com/t
 
 - :book: **README.md**: contiene la descripción del repositorio y el link a las lectures de la clase.
 
-Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/taller-r-202203/.github/blob/main/syllabus.pdf)
+Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/taller-r-202301/.github/blob/main/syllabus.pdf)
 
 ### Repositorios
-- **clase-01:** Introducción al curso. [[repositorio]](https://github.com/taller-r-202202/clase-01) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-1/)
-- **clase-02:** Fundamentos de programación
-- **clase-03:** Estructuras de datos en R
-- **clase-04:** Github
-- **clase-05:** Proyectos en R
-- **clase-06:** Data Wrangling en R
+- **clase-01:** Introducción al curso. [[repositorio]](https://github.com/taller-r-202301/clase-01) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-01/)
+- **clase-02:** Fundamentos de programación [[repositorio]](https://github.com/taller-r-202301/clase-02) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-02/)
+- **clase-03:** Estructuras de datos en R [[repositorio]](https://github.com/taller-r-202301/clase-03) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-03/)
+- **clase-04:** Proyectos en R [[repositorio]](https://github.com/taller-r-202301/clase-04) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-04/)
+- **clase-05:** Data Wrangling en R [[repositorio]](https://github.com/taller-r-202301/clase-05) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-05/)
+- **clase-06:** Github [[repositorio]](https://github.com/taller-r-202301/clase-06) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-06/)
 - **clase-07:** Combinar conjuntos de datos
 - **clase-08:** Visualización de información: `ggplot`
 - **clase-09:** Loops
