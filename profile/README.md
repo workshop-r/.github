@@ -19,7 +19,7 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-04:** Proyectos en R [[repositorio]](https://github.com/taller-r-202301/clase-04) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-04/)
 - **clase-05:** Data Wrangling en R [[repositorio]](https://github.com/taller-r-202301/clase-05) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-05/)
 - **clase-06:** Github [[repositorio]](https://github.com/taller-r-202301/clase-06) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-06/)
-- **clase-07:** Combinar conjuntos de datos
+- **clase-07:** Combinar conjuntos de datos [[repositorio]](https://github.com/taller-r-202301/clase-07) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-07/)
 - **clase-08:** Visualización de información: `ggplot`
 - **clase-09:** Loops
 - **clase-10:** Familia Apply
