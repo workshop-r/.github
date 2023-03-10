@@ -20,12 +20,13 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-05:** Data Wrangling en R [[repositorio]](https://github.com/taller-r-202301/clase-05) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-05/)
 - **clase-06:** Github [[repositorio]](https://github.com/taller-r-202301/clase-06) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-06/)
 - **clase-07:** Combinar conjuntos de datos [[repositorio]](https://github.com/taller-r-202301/clase-07) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-07/)
-- **clase-08:** Visualización de información: `ggplot`
-- **clase-09:** Loops
-- **clase-10:** Familia Apply
-- **clase-11:** Regresiones
-- **clase-12:** Introducción a datos GIS
-- **clase-13:** Introducción a web-scraping
-- **clase-14:** Introducción a la minería de texto
-- **clase-15:** Rmarkdown
+- **clase-08:** Describir una base de datos [[repositorio]](https://github.com/taller-r-202301/clase-08) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-08/)
+- **clase-09:** Visualización de información: `ggplot`
+- **clase-10:** Loops
+- **clase-11:** Familia Apply
+- **clase-12:** Regresiones
+- **clase-13:** Introducción a datos GIS
+- **clase-14:** Introducción a web-scraping
+- **clase-15:** Introducción a la minería de texto
+- **clase-16:** Rmarkdown
 
