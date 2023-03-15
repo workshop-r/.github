@@ -30,3 +30,11 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-15:** Introducción a la minería de texto
 - **clase-16:** Rmarkdown
 
+### Task and problem-set
+
+- **Tasks:** [repositorio](https://github.com/taller-r-202301/tasks)
+- **Problem-set:** [repositorio](https://github.com/taller-r-202301/problem-sets)
+
+
+
+
