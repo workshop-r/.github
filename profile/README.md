@@ -28,7 +28,7 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-13:** Introducción a datos GIS
 - **clase-14:** Introducción a web-scraping
 - **clase-15:** Introducción a la minería de texto
-- **clase-16:** Rmarkdown
+- **clase-16:** Rmarkdown 
 
 ### Task and problem-set
 
