@@ -22,8 +22,8 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-07:** Combinar conjuntos de datos [[repositorio]](https://github.com/taller-r-202301/clase-07) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-07/)
 - **clase-08:** Describir/resumir un conjunto de datos [[repositorio]](https://github.com/taller-r-202301/clase-08) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-08/)
 - **clase-09:** Visualización de información: `ggplot` [[repositorio]](https://github.com/taller-r-202301/clase-09) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-09/)
-- **clase-10:** Loops
-- **clase-11:** Familia Apply
+- **clase-10:** Loops [[repositorio]](https://github.com/taller-r-202301/clase-10) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-10/)
+- **clase-11:** Familia Apply [[repositorio]](https://github.com/taller-r-202301/clase-11) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-11/)
 - **clase-12:** Regresiones
 - **clase-13:** Introducción a datos GIS
 - **clase-14:** Introducción a web-scraping
