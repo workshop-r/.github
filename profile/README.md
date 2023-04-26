@@ -24,10 +24,10 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-09:** Visualización de información: `ggplot` [[repositorio]](https://github.com/taller-r-202301/clase-09) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-09/)
 - **clase-10:** Loops [[repositorio]](https://github.com/taller-r-202301/clase-10) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-10/)
 - **clase-11:** Familia Apply [[repositorio]](https://github.com/taller-r-202301/clase-11) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-11/)
-- **clase-12:** Regresiones
-- **clase-13:** Introducción a datos GIS
-- **clase-14:** Introducción a web-scraping
-- **clase-15:** Introducción a la minería de texto
+- **clase-12:** Introducción a web-scraping [[repositorio]](https://github.com/taller-r-202301/clase-12) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-12/)
+- **clase-13:** Introducción a la minería de texto
+- **clase-14:** Regresiones
+- **clase-15:** Introducción a datos GIS
 - **clase-16:** Rmarkdown 
 
 ### Task and problem-set
