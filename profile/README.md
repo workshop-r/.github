@@ -25,9 +25,9 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-10:** Loops [[repositorio]](https://github.com/taller-r-202301/clase-10) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-10/)
 - **clase-11:** Familia Apply [[repositorio]](https://github.com/taller-r-202301/clase-11) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-11/)
 - **clase-12:** Introducción a web-scraping [[repositorio]](https://github.com/taller-r-202301/clase-12) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-12/)
-- **clase-13:** Introducción a la minería de texto [[repositorio]](https://github.com/taller-r-202301/clase-13) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-13/)
+- **clase-13:** Introducción a datos GIS [[repositorio]](https://github.com/taller-r-202301/clase-13) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-13/)
 - **clase-14:** Regresiones [[repositorio]](https://github.com/taller-r-202301/clase-14) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-14/)
-- **clase-15:** Introducción a datos GIS [[repositorio]](https://github.com/taller-r-202301/clase-15) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-15/)
+- **clase-15:** Introducción a la minería de texto [[repositorio]](https://github.com/taller-r-202301/clase-15) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-15/)
 - **clase-16:** Rmarkdown [[repositorio]](https://github.com/taller-r-202301/clase-16) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-16/)
 
 ### Task and problem-set
