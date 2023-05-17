@@ -23,7 +23,7 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-08:** Describir/resumir un conjunto de datos [[repositorio]](https://github.com/taller-r-202301/clase-08) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-08/)
 - **clase-09:** Visualización de información: `ggplot` [[repositorio]](https://github.com/taller-r-202301/clase-09) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-09/)
 - **clase-10:** Loops [[repositorio]](https://github.com/taller-r-202301/clase-10) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-10/)
-- **clase-11:** Familia Apply [[repositorio]](https://github.com/taller-r-202301/clase-11) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-11/)
+- **clase-11:** Familia Apply [[repositorio]](https://github.com/taller-r-202301/clase-11) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-11/) - [[Video]](https://1drv.ms/v/s!AlvxwT8vVAU9uD9HBimAuVl4FZg-?e=50XaWi)
 - **clase-12:** Introducción a web-scraping [[repositorio]](https://github.com/taller-r-202301/clase-12) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-12/)
 - **clase-13:** Introducción a datos GIS [[repositorio]](https://github.com/taller-r-202301/clase-13) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-13/)
 - **clase-14:** Regresiones [[repositorio]](https://github.com/taller-r-202301/clase-14) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202301/clase-14/)
